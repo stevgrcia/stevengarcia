@@ -6,7 +6,7 @@ My name is Steven Q. Garcia, and I am a graduating fourth-year student from the 
 For any inquiries or opportunities, you may contact me at +63 998 254 3997 or via email at sg760621@gmail.com. I would be happy to accommodate and respond to your messages.
 
 
-Skills: <br> • Manual Testing <br> • Functional Testing <br> • Test Case Creation <br> • Test Scenario Creation <br> • Proficient in Documentation <br> • Microsoft Excel and Word <br> With a background in HTML, CSS, C++, Java and Python <br> 
+Skills: <br> • Manual Testing <br> • Functional Testing <br> • Test Case Creation <br> • Test Scenario Creation <br> • Proficient in Documentation <br> • Microsoft Excel and Word <br> • With a background in HTML, CSS, C++, Java and Python <br> 
 
 
 
